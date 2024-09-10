@@ -1,0 +1,51 @@
+body{
+    background: whitesmoke;
+    font-family: sans-serif;
+} 
+
+.caja1{
+    height: 35%;
+    font-size: 200px;  
+    margin: 10px 10px;  
+}
+
+ul{
+    margin: 0;
+}
+
+li{
+    font-size: 22px;
+
+}
+
+h1{
+    font-size: 45px;
+}
+
+h2{
+    font-size: 30px; 
+}
+
+.caja2{
+    height: 35%;
+    font-size: 200px;   
+    margin: 10px 10px;
+}
+.caja3{
+    height: auto;
+    margin: 10px 10px;
+    font-size: 25px;
+    padding: 30px 0;
+}
+.texto{
+    margin: 0;
+    width: 80%;
+    text-align: left;
+    font-size: 10%;
+
+}
+.imagen{
+    height: 250px;
+    width: 350px;
+
+}
